@@ -1,0 +1,10 @@
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/bin/Debug/netcoreapp2.0/SortMediaFiles.deps.json
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/bin/Debug/netcoreapp2.0/SortMediaFiles.runtimeconfig.json
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/bin/Debug/netcoreapp2.0/SortMediaFiles.runtimeconfig.dev.json
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/bin/Debug/netcoreapp2.0/SortMediaFiles.dll
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/bin/Debug/netcoreapp2.0/SortMediaFiles.pdb
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/obj/Debug/netcoreapp2.0/SortMediaFiles.csproj.CoreCompileInputs.cache
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/obj/Debug/netcoreapp2.0/SortMediaFiles.AssemblyInfoInputs.cache
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/obj/Debug/netcoreapp2.0/SortMediaFiles.AssemblyInfo.cs
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/obj/Debug/netcoreapp2.0/SortMediaFiles.dll
+/Users/rothborey/src/Projects/SortMediaFiles/SortMediaFiles/obj/Debug/netcoreapp2.0/SortMediaFiles.pdb

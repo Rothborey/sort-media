@@ -7,5 +7,8 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Utils\" />
   </ItemGroup>
 </Project>

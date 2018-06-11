@@ -1,13 +1,11 @@
-﻿using System;
-namespace SortMediaFiles
+﻿namespace SortMediaFiles.Helpers
 {
-    public static class LogHelper
+	public static class LogHelper
     {      
-        public static void LogMessageToFile(string msg)
+        public static void LogMessageToFile(string msg, string logPath)
         {
-            const String logPath = @"/Users/rothborey/Pictures/Processed Files/";
             System.IO.StreamWriter sw = System.IO.File.AppendText(
-                logPath + "Log.txt");
+				logPath + "Log.txt");
             try
             {
                 string logLine = System.String.Format(
